@@ -1,2 +1,2 @@
 # Java-Project
-1st java project using asteriks and creating forms 
+1st java classroom project using java basics public class and system output 
